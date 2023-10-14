@@ -11,7 +11,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
 
-1. Import the libraries and read the data frame using pandas.
+1.Import the libraries and read the data frame using pandas.
 
 2.Calculate the null values present in the dataset and apply label encoder.
 
