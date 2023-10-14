@@ -27,7 +27,7 @@ Developed by: NAGUL K
 RegisterNumber: 212222230089
 ```
 
-```
+```py
 
 import pandas as pd
 data=pd.read_csv("Salary.csv")
@@ -65,7 +65,6 @@ r2=metrics.r2_score(y_test,y_pred)
 r2
 
 dt.predict([[5,6]])
-*/
 ```
 
 ## Output:
